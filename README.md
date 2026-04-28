@@ -45,7 +45,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: saad46697@gmail.com
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: [Saad Waheed Khan](https://www.linkedin.com/in/saadwaheedkhan)
 
 ---
 
