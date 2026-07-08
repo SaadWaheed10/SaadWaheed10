@@ -17,7 +17,7 @@
 - **Frontend:** React.js, JavaScript (ES6+), TypeScript
 - **Styling:** Tailwind CSS, Styled Components
 - **State Management:** Redux, Context API
-- **Backend (Basic):** Node.js, Firebase
+- **Backend:** Node.js, Firebase
 - **Tools:** Git, GitHub, VS Code, Postman
 
 ---
